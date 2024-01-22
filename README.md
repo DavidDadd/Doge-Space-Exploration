@@ -1,7 +1,10 @@
 # Doge-Space-Exploration
 Doge Space Exploration is a multiplayer game that allows players to earn real Dogecoin. 
+
 Doge Space Exploration 是一款多人游戏，允许玩家赚取真正的狗狗币。
+
 Doge Space Exploration は、プレイヤーが本物の Dogecoin を獲得できるマルチプレイヤー ゲームです。
+
 Doge Space Exploration은 플레이어가 실제 Dogecoin을 얻을 수 있는 멀티플레이어 게임입니다.
 
 Contact @Dabiddaddy on Twitter for support.
