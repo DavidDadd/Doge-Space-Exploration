@@ -23,6 +23,9 @@ Following modules are needed to run the game:
 # Rotate, Crash and Respawn
 ![](crash.gif)
 
+# Earn and withdraw Dogecoin
+![](withdraw.gif)
+
 # In Game Support
 Contact @Dabiddaddy on Twitter for support.
 
