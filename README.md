@@ -1,5 +1,5 @@
 # Doge-Space-Exploration
-Doge Space Exploration is a multiplayer game that allows players to earn real Dogecoin. 
+Doge Space Exploration is a multiplayer online game. 
 
 # Requirements
 Following modules are needed to run the game:
