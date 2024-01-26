@@ -20,7 +20,7 @@ Following modules are needed to run the game:
 # Looting and Death Wave
 ![](loot.gif)
 
-# Rotating, Crash and Respawn
+# Rotate, Crash and Respawn
 ![](crash.gif)
 
 # In Game Support
