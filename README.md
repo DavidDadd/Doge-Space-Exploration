@@ -26,6 +26,12 @@ Following modules are needed to run the game:
 # Earn and withdraw Dogecoin
 ![](withdraw.gif)
 
+# Q:Nothing comes for free. Where does the dogecoin that I earn come from?
+A:The dogecoin you earn comes from the developer and other players who top up in the game. All the dogecoin players top up will be added to "The Doge" planet. The game is made in a hope that the game can run on its own. 
+
+# Q:Why is it laggy in the game?
+A: The game's server is in Japan.  
+
 # In Game Support
 Contact @Dabiddaddy on Twitter for support.
 
